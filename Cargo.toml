@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "common",
+  "common-proc-macro",
+  "tests",
+]
